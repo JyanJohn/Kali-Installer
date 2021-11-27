@@ -1,6 +1,6 @@
 ###
-## __Piso Wifi BruteForce__
-![logo](prev.png)
+## __Kali Linux for Termux__
+![prev](prev.jpg)
 ###
 
 ###
