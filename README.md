@@ -1,6 +1,6 @@
 ###
 ## __Piso Wifi BruteForce__
-![pic](prev.png)
+![logo](prev.png)
 ###
 
 ###
